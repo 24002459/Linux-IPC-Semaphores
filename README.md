@@ -127,8 +127,7 @@ $ ./sem.o
 ![Alt text](img.png)
 
 $ ipcs
-/home/preetham_1101/os/ex05/Linux-IPC-Semaphores/image.png
-
+![Alt text](image.png)
 
 # RESULT:
 The program is executed successfully.
