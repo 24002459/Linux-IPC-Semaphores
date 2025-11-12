@@ -127,9 +127,7 @@ $ ./sem.o
 ![Alt text](img.png)
 
 $ ipcs
-
-![Alt text](../img2.png)
-
+/home/preetham_1101/os/ex05/Linux-IPC-Semaphores/image.png
 
 
 # RESULT:
